@@ -19,7 +19,6 @@ _test
 /gitea_*
 
 # MS VSCode
-.vscode
 __debug_bin*
 
 # Visual Studio
@@ -130,3 +129,4 @@ prime/
 
 # A Makefile for custom make targets
 Makefile.local
+config.bat
